@@ -1,0 +1,14 @@
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\bin\Debug\CheckPayment.dll
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\bin\Debug\CreateReport.dll
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\bin\Debug\Aspose.Cells.dll
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\bin\Debug\CheckPayment.pdb
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\bin\Debug\CreateReport.pdb
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\obj\Debug\quan_ly.csprojResolveAssemblyReference.cache
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DEV\Documents\Visual Studio 2012\Projects\Ex\WindowsFormsApplication1\obj\Debug\quan_ly.csproj.GenerateResource.Cache
